@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afd7172b.chunk.css",
+    "main.js": "/static/js/main.4d70ad81.chunk.js",
+    "main.js.map": "/static/js/main.4d70ad81.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.35db84a3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.35db84a3.js.map",
+    "static/js/2.a6f8a9ad.chunk.js": "/static/js/2.a6f8a9ad.chunk.js",
+    "static/js/2.a6f8a9ad.chunk.js.map": "/static/js/2.a6f8a9ad.chunk.js.map",
+    "static/js/3.0cd3d8b5.chunk.js": "/static/js/3.0cd3d8b5.chunk.js",
+    "static/js/3.0cd3d8b5.chunk.js.map": "/static/js/3.0cd3d8b5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.a6f8a9ad.chunk.js.LICENSE.txt": "/static/js/2.a6f8a9ad.chunk.js.LICENSE.txt",
+    "static/media/clock.ddec723d.svg": "/static/media/clock.ddec723d.svg",
+    "static/media/diaphragm.fb1e5b13.svg": "/static/media/diaphragm.fb1e5b13.svg",
+    "static/media/home-1.ec1e8fa1.jpg": "/static/media/home-1.ec1e8fa1.jpg",
+    "static/media/home-2.bd822f4c.jpg": "/static/media/home-2.bd822f4c.jpg",
+    "static/media/money.2e18c561.svg": "/static/media/money.2e18c561.svg",
+    "static/media/sports-1.580f15cd.jpg": "/static/media/sports-1.580f15cd.jpg",
+    "static/media/sports-2.69109532.jpg": "/static/media/sports-2.69109532.jpg",
+    "static/media/sports-3.6e9c171a.jpg": "/static/media/sports-3.6e9c171a.jpg",
+    "static/media/sports-4.b1e990fc.jpg": "/static/media/sports-4.b1e990fc.jpg",
+    "static/media/teamwork.f9f4ff96.svg": "/static/media/teamwork.f9f4ff96.svg",
+    "static/media/wild-life-1.53006b1d.jpg": "/static/media/wild-life-1.53006b1d.jpg",
+    "static/media/wild-life-2.bea61fc7.jpg": "/static/media/wild-life-2.bea61fc7.jpg",
+    "static/media/wild-life-3.086b366d.jpg": "/static/media/wild-life-3.086b366d.jpg",
+    "static/media/wild-life-4.000b2e99.jpg": "/static/media/wild-life-4.000b2e99.jpg",
+    "static/media/winter-1.696c46bb.jpg": "/static/media/winter-1.696c46bb.jpg",
+    "static/media/winter-2.0e4108a9.jpg": "/static/media/winter-2.0e4108a9.jpg",
+    "static/media/winter-3.a733bcfe.jpg": "/static/media/winter-3.a733bcfe.jpg",
+    "static/media/winter-4.589ec619.jpg": "/static/media/winter-4.589ec619.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35db84a3.js",
+    "static/js/2.a6f8a9ad.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.4d70ad81.chunk.js"
+  ]
+}
